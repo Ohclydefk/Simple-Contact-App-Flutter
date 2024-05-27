@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116157365880",
+    "project_id": "newflutterdb",
+    "storage_bucket": "newflutterdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116157365880:android:51fc5b1265c737f983b78d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_clyde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAge9MO8IfHWWcFghVX7YlOJnwY3uuL2Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
